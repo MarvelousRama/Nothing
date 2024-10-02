@@ -7,8 +7,8 @@ from datetime import datetime
 import time
 from threading import Thread
 
-API_TOKEN = '7506099142:AAFXV_tgveZ2Sn4E7lmps021AWkzycN_5gI'  # Replace with your actual API token
-Admin = ['1686840395', '123456789']  # List of admin user IDs
+API_TOKEN = '7526298442:AAEaoZcPk_8lIy0g7eroDeYWKtrDlvFl1J4'  # Replace with your actual API token
+Admin = [6016330931]  # List of admin user IDs
 bot = telebot.TeleBot(API_TOKEN)  # Initialize the Telegram bot with the API token
 
 # Load subscriber data from JSON file
